@@ -1,0 +1,20 @@
+
+Goofy Coin system
+
+Team - Surbhi Goyal(20172023) and Suraj Kannayyagari(20173020)
+
+Usage:
+1. Run makefile
+2. Enter users which will do the transaction,also include goofy in it.
+3. Menu Driven program given to perform following operations.
+	1 : MakeCoin
+	2 : Do transactions
+	3 : Print Chain
+	4 : Validate Transaction
+	5 : Validate BlockChain
+
+
+Use of Hashing algorithms - SHA256
+Use of DSA to generate public/private keys for digital signatures
+
+
